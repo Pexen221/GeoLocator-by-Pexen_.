@@ -19,19 +19,12 @@ Do poprawnego działania GeoLocator By Pexen potrzebne są:
 ## Instalacja
 1. Sklonuj repozytorium:
     ```bash
-    git clone https://github.com/twoje_konto/GeoLocator-By-Pexen.git
+    git clone https://github.com/Pexen221/GeoLocator-by-Pexen_..git
     ```
-2. Przejdź do katalogu projektu:
-    ```bash
-    cd GeoLocator-By-Pexen
-    ```
-3. Zainstaluj zależności:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+2. Run .exe file    
+    
 ## Użycie
 Aby uruchomić aplikację, użyj poniższego polecenia:
 
 ```bash
-python geolocator.py --location "Warszawa, Polska"
+The program will ask for the IP address
