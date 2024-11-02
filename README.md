@@ -1,33 +1,30 @@
 # 💎 GeoLocator By Pexen 💎
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.12.0-blue)
 
-GeoLocator By Pexen to narzędzie do lokalizacji geograficznej, które pozwala użytkownikom na precyzyjne identyfikowanie i analizowanie lokalizacji na podstawie różnych danych wejściowych. Aplikacja wykorzystuje zaawansowane algorytmy geolokalizacji, aby dostarczać dokładne informacje o położeniu w czasie rzeczywistym.
+GeoLocator By Pexen is a geolocation tool that allows users to accurately identify and analyze location information based on various input data. The application uses advanced geolocation algorithms to provide precise real-time location details.
 
-### Lista zadań:
-1. **Zdobądź adres IP**, który chcesz zlokalizować.
-2. **Wpisz adres IP do programu** - aplikacja poprosi o podanie adresu IP, który ma być analizowany.
-3. **Ciesz się wynikami!** - GeoLocator wyświetli szczegółowe informacje o lokalizacji IP, takie jak kraj, miasto i koordynaty 🎉
+### Task List:
+1. **Obtain the IP address** that you want to locate.
+2. **Enter the IP address into the program** - the application will prompt you to provide the IP address to be analyzed.
+3. **Enjoy the results!** - GeoLocator will display detailed location information for the IP address, such as country, city, and coordinates 🎉
 
-## Spis treści
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Użycie](#użycie)
-- [Przykłady](#przykłady)
-- [Licencja](#licencja)
+## Table of Contents
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
 
-## Wymagania
-Do poprawnego działania programu potrzebne są:
-- **Python 3.8** lub nowszy
-- **Biblioteka `requests`** do komunikacji z API
-- **Biblioteka `geopy`** - do konwersji danych geograficznych
+## Requirements
+To run this program successfully, you need:
+- **Python 3.8** or newer
+- **`requests` library** for API communication
+- **`geopy` library** for geographic data conversion
 
-## Instalacja
-1. Sklonuj repozytorium:
+## Installation
+1. Clone the repository:
     ```bash
     git clone https://github.com/Pexen221/GeoLocator-by-Pexen_..git
     ```
-2. Uruchom plik `.exe` lub uruchom program z poziomu terminala, jeśli korzystasz ze skryptu Python.
+2. Run the `.exe` file or start the program from the terminal if you are using the Python script.
 
-## Użycie
-Po uruchomieniu aplikacji program poprosi o wprowadzenie adresu IP. Po wpisaniu adresu IP, GeoLocator wyświetli szczegółowe informacje o położeniu tego adresu.
-
+## Usage
+Upon launching, the application will prompt you to enter an IP address. Once you provide the IP address, GeoLocator will display detailed location information for that address.
