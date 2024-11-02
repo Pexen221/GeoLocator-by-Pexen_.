@@ -1,5 +1,5 @@
 # 💎 GeoLocator By Pexen 💎
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.12.0-blue)
 
 GeoLocator By Pexen to narzędzie do lokalizacji geograficznej, które pozwala użytkownikom na precyzyjne identyfikowanie i analizowanie lokalizacji na podstawie różnych danych wejściowych. Aplikacja wykorzystuje zaawansowane algorytmy geolokalizacji, aby dostarczać dokładne informacje o położeniu w czasie rzeczywistym.
 
