@@ -35,4 +35,3 @@ Aby uruchomić aplikację, użyj poniższego polecenia:
 
 ```bash
 python geolocator.py --location "Warszawa, Polska"
-
