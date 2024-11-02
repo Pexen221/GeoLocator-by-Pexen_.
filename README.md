@@ -1,7 +1,8 @@
-# 💎 GeoLocator By Pexen 💎
-This is an ordinary IP geolocator, it doesn't have many functions, but it is useful
-
-The files include an .mp4 file showing how the program works
-
-# How to install?
-[gti clone https://github.com/Pexen221/GeoLocator-by-Pexen_..git]
+# Table Of Contents
+# General Info H1
+## nagłówek H2
+### nagłówek H3
+#### nagłówek H4
+##### nagłówek H5
+###### nagłówek H6
+# General Info
