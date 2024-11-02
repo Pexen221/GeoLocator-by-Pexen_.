@@ -11,7 +11,7 @@ GeoLocator By Pexen to narzędzie do lokalizacji geograficznej, które pozwala u
 - [Licencja](#licencja)
 
 ## Wymagania
-Do poprawnego działania GeoLocator By Pexen potrzebne są:
+Do poprawnego działania programu potrzebne są:
 - Python 3.8 lub nowszy
 - Biblioteka `requests` do komunikacji z API
 - `geopy` - do konwersji danych geograficznych
